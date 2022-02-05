@@ -1,0 +1,62 @@
+h1 {
+    font-family: 'Song Myung', serif;
+}
+
+h2 {
+    font-family: 'Song Myung', serif;
+}
+
+li {
+    font-family: 'Gowun Dodum', sans-serif;
+    list-style: none;
+}
+
+footer {
+    background-color: rgb(36, 36, 36);
+    margin-top: 15%;
+}
+
+ul {
+    font-family: 'Gowun Dodum', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+/* div {
+    margin: 40px;
+} */
+
+.catch-phrase {
+    text-align: center;
+    margin: 5%;
+}
+
+/* .profile-img {
+    align-content: center;
+    size: 50%;
+} */
+
+.content {
+    margin: auto 20% auto;
+    padding-left: 5%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: lightgray;
+}
+
+.credit {
+    text-align: center;
+    color: aliceblue;
+    padding: 10% auto;
+}
+
+#career {
+    font-weight: lighter;
+    font-size: smaller;
+}
+
+#pay {
+    font-weight: bolder;
+    font-size: smaller;
+    font-style: italic;
+    color: blue;
+}
